@@ -4,6 +4,7 @@
   <channel>
     <title>Nairobi Baptist Church Ongata Rongai Sermons</title>
     <googleplay:author>Nairobi Baptist Church Ongata Rongai</googleplay:author>
+        <googleplay:email>rongai@nairobibaptist.co.ke</googleplay:email>
     <description>Sermons and teachings at our church</description>
     <googleplay:image href="https://raw.githubusercontent.com/nbcrongaimedia/sermons/master/Podcast%20Cover-01.jpg"/>
     <language>en-us</language>
