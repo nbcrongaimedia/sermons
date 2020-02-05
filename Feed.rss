@@ -5,14 +5,14 @@
     <title>Nairobi Baptist Church Ongata Rongai Sermons</title>
     <googleplay:author>Nairobi Baptist Church Ongata Rongai</googleplay:author>
     <description>Sermons and teachings at our church</description>
-    <googleplay:image href="https://drive.google.com/open?id=15SVSDBIBTtp4mdLgexnc3dUH_c84SApP"/>
+    <googleplay:image href="https://raw.githubusercontent.com/nbcrongaimedia/sermons/master/Podcast%20Cover-01.jpg"/>
     <language>en-us</language>
     <link>https://www.nairobibaptist.co.ke/home2/</link>
     <item>
       <title>Press on when the going gets tough</title>
       <description>Our sermon for this Sunday was Philippians 2:12-18. Subscribe to never miss a sermon</description>
       <pubDate>Sun, 19 Jan 2020 10:00:00 +0300</pubDate>
-      <enclosure url="https://script.google.com/macros/s/AKfycbwLWQN93b13R5EBXetnDhc_NzUFg1Vyo5eAVN_0rsR_199uMYFG/exec?folderID=1zz-Dqfqw_YJwSH6xh1Vv8ec6WurNgY5g"
+      <enclosure url="https://drive.google.com/uc?export=download&id=1tbh-kZ25kfjEbMRoZ-ErguhVDA5hoqVK"
                  type="audio/mpeg" length=""/>
       <guid isPermaLink="false">dzpodtop10</guid>
     </item>
