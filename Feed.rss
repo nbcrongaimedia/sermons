@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Dafna's Zebra Podcast</title>
-    <googleplay:author>Dafna</googleplay:author>
-    <description>A pet-owner's guide to the popular striped equine.</description>
-    <googleplay:image href="http://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <title>Nairobi Baptist Church Ongata Rongai Sermons</title>
+    <googleplay:author>Nairobi Baptist Church Ongata Rongai</googleplay:author>
+        <googleplay:email>rongai@nairobibaptist.co.ke</googleplay:email>
+    <description>Sermons and teachings at our church</description>
+    <googleplay:image href="https://raw.githubusercontent.com/nbcrongaimedia/sermons/master/Podcast%20Cover-01.jpg"/>
     <language>en-us</language>
-    <link>https://www.example.com/podcasts/dafnas-zebras/</link>
+    <link>https://www.nairobibaptist.co.ke/home2/</link>
     <item>
-      <title>Top 10 myths about caring for a zebra</title>
-      <description>Here are the top 10 misunderstandings about the care, feeding, and breeding of these lovable striped animals.</description>
-      <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
-      <enclosure url="https://www.example.com/podcasts/dafnas-zebras/audio/toptenmyths.mp3"
-                 type="audio/mpeg" length="34216300"/>
-      <itunes:duration>30:00</itunes:duration>
+      <title>Press on when the going gets tough</title>
+      <description>Our sermon for this Sunday was Philippians 2:12-18. Subscribe to never miss a sermon</description>
+      <pubDate>Sun, 19 Jan 2020 10:00:00 +0300</pubDate>
+      <enclosure url="https://googledrive.com/host/1zz-Dqfqw_YJwSH6xh1Vv8ec6WurNgY5g/4.RevMajidOchiengPressoninFearandT.mp3"
+                 type="audio/mpeg" length=""/>
+                 <itunes:duration>33:09</itunes:duration>
       <guid isPermaLink="false">dzpodtop10</guid>
     </item>
   </channel>
