@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Nairobi Baptist Church Ongata Rongai Sermons</title>
+    <link>https://www.nairobibaptist.co.ke/home2/</link>
+    <description>Sunday sermons preached to our congregation</description>
+    <language>en-us</language>
+    <managingEditor>rongai@nairobibaptist.co.ke</managingEditor>
+    <webMaster>rongai@nairobibaptist.co.ke</webMaster>
+    <image>
+      <title>Nairobi Baptist Church Ongata Rongai Sermons</title>
+      <link>https://www.nairobibaptist.co.ke/home2/</link>
+      <url>https://drive.google.com/open?id=15SVSDBIBTtp4mdLgexnc3dUH_c84SApP</url>
+      <width>800</width>
+      <height>800</height>
+    </image>
+    <item>
+      <title>Press on when the going gets tough</title>
+      <pubDate>Sun, 19 Jan 2020 10:00:00 +0300</pubDate>
+      <author>Nairobi Baptist Church Ongata Rongai</author>
+      <category>Sermons</category>
+      <enclosure url="https://drive.google.com/open?id=1tbh-kZ25kfjEbMRoZ-ErguhVDA5hoqVK" length="" type="audio/mpeg" />
+      <description><![CDATA[Our sermon for this Sunday was Philippians 2:12-18. 
+Subscribe to never miss a sermon]]></description>
+    </item>
+  </channel>
+</rss>
